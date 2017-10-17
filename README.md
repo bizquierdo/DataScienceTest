@@ -1,6 +1,5 @@
 # DataScienceTest
-Toni
-Conflict is comming..
+This is a test
 ccccc
 un altre canvi
 un altre canvi 2
