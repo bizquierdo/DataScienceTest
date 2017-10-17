@@ -7,7 +7,4 @@ push >> bizquierdo
 canvi en local; pull de servidor; conflict?
 
 
-dfghjklñ
-
-
 
